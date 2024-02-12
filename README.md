@@ -1,10 +1,10 @@
-#mindow
+# mindow
 A minimal window manager for windows  
 
-##Overview
+## Overview
 TODO
 
-##Usage
+## Usage
 ```text
 Usage:
 h|help              Prints this help
